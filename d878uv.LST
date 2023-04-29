@@ -1,4 +1,4 @@
-22
+23
 0,"Channel.CSV"
 1,"RadioIDList.CSV"
 2,"Zone.CSV"
@@ -21,3 +21,4 @@
 19,"APRS.CSV"
 20,"GPSRoaming.CSV"
 21,"AESEncryptionCode.CSV"
+22,"AR4EncryptionCode.CSV"
